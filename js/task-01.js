@@ -13,3 +13,4 @@ items.forEach((item) => {
   console.log("Category:", title);
   console.log("Elements:", totalElements);
 });
+
